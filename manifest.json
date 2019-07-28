@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "Default Bookmark Toolbar Folder",
+    "description": "Set the default bookmark location to the toolbar.",
+    "author": "schilkyl",
+    "version": "1.0.0",
+    "permissions": [
+        "bookmarks"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "icons": {
+        "16": "bookmark.svg"
+    },
+    "page_action": {
+        "default_icon": {
+            "16": "bookmark.svg"
+        }
+    }
+}
