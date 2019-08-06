@@ -1,6 +1,6 @@
 {
     "env": {
-        "browser": true
+        "webextensions": true
     },
     "parserOptions": {
         "ecmaVersion": 6,
