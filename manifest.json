@@ -3,7 +3,7 @@
     "name": "Default Bookmark Toolbar Folder",
     "description": "Set the default bookmark location to the toolbar.",
     "author": "schilkyl",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "permissions": [
         "bookmarks"
     ],
